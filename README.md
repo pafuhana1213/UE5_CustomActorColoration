@@ -1,6 +1,8 @@
 # CustomActorColoration プラグイン
 ![image](https://github.com/pafuhana1213/UE5_CustomActorColoration/assets/8957600/308764a6-e9a8-479e-82f1-4e0ba003b19c)
 ![image](https://github.com/pafuhana1213/UE5_CustomActorColoration/assets/8957600/bafcb73c-2f04-40b4-9536-29de331e902e)
+Demo  
+[![](https://img.youtube.com/vi/mJqrIT1iYf4/0.jpg)](https://www.youtube.com/watch?v=mJqrIT1iYf4)
 
 UE5.4にて改良されたActor Coloration機能を用いて、各Actor・PrimitiveComponentのプロパティが特定の条件を満たすか否かを可視化するプラグインです。
 現在対応しているプロパティは以下の通りです。
