@@ -26,6 +26,10 @@ ActorColorationの項目を追加・編集したい場合は、CustomActorColora
 
 If you want to add or edit an ActorColoration item, please check the implementation of the constructor in CustomActorColorationRegister.cpp.
 
+## Known Issues
+Crash on map change with non-null values for GPropertyColorationClass and request customizable property coloration color  
+https://issues.unrealengine.com/issue/UE-192284
+
 # Explanation
 準備中
 In preparation
