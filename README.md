@@ -31,8 +31,7 @@ Crash on map change with non-null values for GPropertyColorationClass and reques
 https://issues.unrealengine.com/issue/UE-192284
 
 # Explanation
-準備中
-In preparation
+https://www.docswell.com/s/leon-gameworks/K1JDQG-UEMConnect_008
 
 # Engine Version
 UE5.4
